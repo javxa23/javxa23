@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm [ТАНЫ НЭР]</h1>
 <h3 align="center">A passionate [мэргэжил/чиглэл] from [улс]</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=yourusername&label=Profile%20views&color=0e75b6&style=flat" alt="yourusername" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=javxa23&label=Profile%20views&color=0e75b6&style=flat" alt="javxa23" /> </p>
 
 - 🔭 I’m currently working on **[төсөл/компанийн нэр]**
 
